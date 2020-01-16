@@ -20,19 +20,15 @@ body{
     letter-spacing: 1px;
 }
 
-form {
-    margin-left: 10%;
-    margin-top: 8%;
-    color: #9b9b9b;
-    letter-spacing: 1px;
-    background-color: rgba(25, 25, 117, 0.384);
-    padding: 20px;
-    margin-right: 50%;
-}
-
 .btn{
     background-color: rgba(25,25,117);
     border-color: rgba(25,25,117);
+    padding: 10px;
+    margin-right: 50%;
+    margin-left: 10%;
+    margin-top: 2%;
+    color: #9b9b9b;
+    letter-spacing: 1px;
 }
 
 .btn:hover{
