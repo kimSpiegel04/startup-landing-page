@@ -1,1 +1,21 @@
-/* https://unsplash.com/photos/BZpt3Qn09WQ */
+body{
+    background-image: url(space.jpg);
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navbar-nav {
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+.title{
+    margin-left: 10%;
+    margin-top: 8%;
+    color: #9b9b9b;
+    text-shadow: 2px 2px rgba(126, 153, 177, 0.397);
+    letter-spacing: 1px;
+}
