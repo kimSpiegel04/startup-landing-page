@@ -19,3 +19,23 @@ body{
     text-shadow: 2px 2px rgba(126, 153, 177, 0.397);
     letter-spacing: 1px;
 }
+
+form {
+    margin-left: 10%;
+    margin-top: 8%;
+    color: #9b9b9b;
+    letter-spacing: 1px;
+    background-color: rgba(25, 25, 117, 0.384);
+    padding: 20px;
+    margin-right: 50%;
+}
+
+.btn{
+    background-color: rgba(25,25,117);
+    border-color: rgba(25,25,117);
+}
+
+.btn:hover{
+    background-color: rgba(25, 25, 117, 0.315);
+    border-color: rgba(25,25,117, 0.315);
+}
